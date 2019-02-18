@@ -48,7 +48,10 @@ The figure below illustrates this behavior using an example.
 1. Later, the joystick is set to a negative position for one time unit, making the reference speed to decrease as well.
 
 ## Markdown Exercises
+
 [Tanszéki weblap](https://inf.mit.bme.hu)
+
 Quote from me:
 >kezdjük
+
  `<h2> h2tag for html </h2>`
