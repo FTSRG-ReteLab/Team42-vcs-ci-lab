@@ -55,3 +55,5 @@ Quote from me:
 >kezdjük
 
  `<h2> h2tag for html </h2>`
+
+ [Google link as requested](https://www.google.com/)
