@@ -12,7 +12,7 @@ public class TrainControllerImpl implements TrainController {
 
 	private Timer timer;
 
-	public void TrainControllerImpl() {
+	public TrainControllerImpl() {
 		timer = new Timer();
 
 		timer.scheduleAtFixedRate(new TimerTask() {
